@@ -1,0 +1,6 @@
+TRAIN_DATA_LOC = r'../IMAGES_IDVPROJECT/Testset/Double/results_train_double'
+TEST_DATA_LOC = r'../IMAGES_IDVPROJECT/Testset/Double/results_test_double'
+PRED_DATA_LOC = r'../IMAGES_IDVPROJECT/Testset/Double/results_validate_double/cluster_3'
+ANNOT_LOC = r'../IMAGES_IDVPROJECT/VsindProject/data/02_intermediate/'
+MODEL_SAVE_LOC = r'../IMAGES_IDVPROJECT/VsindProject/data/04_model/'
+REPORT_SAVE_LOC = r'../IMAGES_IDVPROJECT/VSindProject/data/06_reporting/'
